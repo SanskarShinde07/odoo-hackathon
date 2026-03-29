@@ -1,7 +1,7 @@
 # Odoo Hackathon — Expense Reimbursement System
 
-Live Link: https://oddd-pearl.vercel.app/
 A full-stack expense reimbursement platform built for the Odoo Hackathon. Employees submit expenses with receipt uploads, managers/approvers action them through configurable workflows, and the system handles multi-currency conversion automatically.
+Live Link: https://oddd-pearl.vercel.app/
 
 ---
 
